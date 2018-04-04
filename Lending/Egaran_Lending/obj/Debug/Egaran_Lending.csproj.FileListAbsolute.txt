@@ -1,0 +1,13 @@
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\bin\Debug\Egaran_Lending.exe.config
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\bin\Debug\Egaran_Lending.exe
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\bin\Debug\Egaran_Lending.pdb
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.Properties.Resources.resources
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.csproj.GenerateResource.Cache
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.csproj.CoreCompileInputs.cache
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.exe
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.pdb
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.EmployeeProfiles.resources
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.Lending.resources
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.csprojResolveAssemblyReference.cache
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.Payments.resources
+C:\Users\Raivex\source\repos\Egaran_Lending\Egaran_Lending\obj\Debug\Egaran_Lending.LendingCompany.resources
